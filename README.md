@@ -1,2 +1,2 @@
 # sh-RU
-Serbian Cyrillic layout with Russian letters
+Символы для русского языка добавлены в стандартную раскладку для сербского языка.
