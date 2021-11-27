@@ -1,4 +1,7 @@
 # sh-RU
-Russian symbols added to Serbian (Latin) keyboard layout
+
+Russian symbols added to Serbian (Latin) keyboard layout.
+
 Символы для русского языка добавлены в стандартную раскладку для сербского языка.
+
 Руска слова су додана у српски распоред тестатуре.
